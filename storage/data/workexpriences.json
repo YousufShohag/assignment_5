@@ -1,0 +1,84 @@
+{
+    "workexperienesHeader": {
+        "title": "Hey Welcome !",
+        "description": "Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code, let’s get to know about Laravel in short.Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code, let’s get to know about Laravel in short.",
+        "short_description": "Furthermore, you can use it for your upcoming laravel projects. If you are looking for laravel projects with source code for inspiration, then this laravel projects list is for you. "
+    },
+
+    "workexperienesHeaderDetails": {
+        "title": "Hey Welcome This is My Work !",
+        "description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+        "short_description": "Furthermore, you can use it for your upcoming laravel projects. If you are looking for laravel projects with source code for inspiration, then this laravel projects list is for you. "
+    },
+
+
+    "workexperiences": [
+        {
+            "id": 1,
+            "workName": "Imperial",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "workDescriptionLong": "Furthermore, you can use it for your upcoming laravel projects. If you are looking for laravel projects with source code for inspiration, then this laravel projects list is for you.."
+
+
+        },
+        {
+            "id": 2,
+            "workName": "Bank of USA",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 3,
+            "workName": "ASA Regional",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 4,
+            "workName": "Project 04",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 5,
+            "workName": "ASA Regional",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 6,
+            "workName": "Project 06",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 7,
+            "workName": "ASA Regional",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 8,
+            "workName": "Project 08",
+            "workDate": "01 March 2021",
+            "workCategory": "CLI Application",
+            "workClient": "USA Company",
+            "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+    ]
+}

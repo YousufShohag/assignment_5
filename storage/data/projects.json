@@ -1,0 +1,80 @@
+{
+    "projectsHeader": {
+        "title": "Hey Welcome !",
+        "description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code, let’s get to know about Laravel in short.",
+        "short_description": "Furthermore, you can use it for your upcoming laravel projects. If you are looking for laravel projects with source code for inspiration, then this laravel projects list is for you. "
+    },
+    "projectsHeaderDetails": {
+        "title": "Hey Welcome !",
+        "description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+        "short_description": "Furthermore, you can use it for your upcoming laravel projects. If you are looking for laravel projects with source code for inspiration, then this laravel projects list is for you. "
+    },
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Banking App",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple Banking App using WEB and CLI",
+            "project_date": "01 March 2021",
+            "client": "USA Company",
+            "link": "https://www.example.com/project01",
+            "image": "1.png",
+            "images": [
+                "1.png",
+                "2.png",
+                "3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Banking App CLI",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple Banking App using CLI This make by web based",
+            "project_date": "01 February 2022",
+            "client": "UAE Company",
+            "link": "https://www.example.com/project02"
+        },
+        {
+            "id": 3,
+            "project_name": "CLI Design",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple CLI App using CLI Command This is vey Afordable",
+            "project_date": "01 June 2023",
+            "client": "TURKEY Company",
+            "link": "https://www.example.com/project03"
+        },
+        {
+            "id": 4,
+            "project_name": "Banking App CLI",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple Banking App using CLI This make by web based",
+            "project_date": "01 February 2022",
+            "client": "UAE Company",
+            "link": "https://www.example.com/project04"
+        },
+        {
+            "id": 5,
+            "project_name": "CLI Design",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple CLI App using CLI Command This is vey Afordable",
+            "project_date": "01 June 2023",
+            "client": "TURKEY Company",
+            "link": "https://www.example.com/project05"
+        },
+        {
+            "id": 6,
+            "project_name": "Banking App",
+            "long_description": "Starting my journey as a Laravel Developer. Well then, here are some of the best Open Source Laravel Projects with source code to take inspiration from and learn from. Although, before we start the collection of laravel project examples with source code",
+            "description": "This is the Simple Banking App using WEB and CLI",
+            "project_date": "01 March 2021",
+            "client": "USA Company",
+            "link": "https://www.example.com/project06",
+            "image": "1.png",
+            "images": [
+                "1.png",
+                "2.png",
+                "3.png"
+            ]
+        }
+    ]
+}
